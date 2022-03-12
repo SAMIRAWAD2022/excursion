@@ -1,6 +1,6 @@
 body{
     font-family:Verdana, Geneva, Tahoma, sans-serif;
-    background-color: black;
+    background-color:white;
     text-align:center;
 }
 h1{
@@ -20,6 +20,11 @@ h2{
 }
 .negma{
     font-size:21px;
+    color:gray;
+
+}
+.footer{
+    text-align:right;
     color:gray;
 
 }
